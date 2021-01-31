@@ -3109,7 +3109,7 @@
 		}
 
 		#banner h2 {
-			color: #ffffff;
+			color: black;
 			display: inline-block;
 			font-size: 3.5em;
 			line-height: 1.35;
@@ -3150,7 +3150,7 @@
 			}
 
 				#banner br {
-					display: none;
+					/* display: none; */
 				}
 
 				#banner h2 {
