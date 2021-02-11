@@ -12,8 +12,8 @@
 
 	#topPart {
 		text-align: center;
-		background-color: gray;
-		background-image: url("./overlay.png"),url(https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/97262176_1088294174884662_3491612045743226880_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_ohc=Cy9An2qehO4AX8rnue1&_nc_ht=scontent-den4-1.xx&oh=569d31261247fb63421cfb911a2aac0f&oe=6038DB84);
+		background-color: white;
+		/* background-image: url("./overlay.png"),url(https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/97262176_1088294174884662_3491612045743226880_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_ohc=Cy9An2qehO4AX8rnue1&_nc_ht=scontent-den4-1.xx&oh=569d31261247fb63421cfb911a2aac0f&oe=6038DB84); */
 		background-position: center top;
 		background-size: 100%;
 		line-height: 1.75;
