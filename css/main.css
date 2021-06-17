@@ -24,6 +24,9 @@
 		background-attachment: fixed;
 	}
 
+	#header2 {
+		display: none;
+	}
 
 	.bottomText {
 		font-size: 1.2em!important;
@@ -2935,6 +2938,10 @@
 
 			#header {
 				display: none;
+			}
+
+			#header2 {
+				display: inherit;
 			}
 
 		}
