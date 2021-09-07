@@ -2615,7 +2615,7 @@
 			margin: 0 0 0.8em;
 		}
 
-		header.major p {
+		article.major p {
 			font-size: 1.7em;
 			margin-bottom: 0;
 			color: white;
@@ -2631,7 +2631,7 @@
 				font-size: 2.5em;
 			}
 
-			header.major p {
+			article.major p {
 				font-size: 1.3em;
 				color: white;
 			}
@@ -2644,7 +2644,7 @@
 			font-size: 2em;
 		}
 
-		header.major p {
+		article.major p {
 			font-size: 1.1em;
 			color: white;
 		}
@@ -2656,6 +2656,9 @@
 		header.major {
 			margin-bottom: 2em;
 		}
+		.display-4 {
+			font-size: 2rem;
+		}
 
 	}
 
@@ -2665,6 +2668,9 @@
 			font-size: 1.75em;
 		}
 
+		.display-4 {
+			font-size: 2rem;
+		}
 	}
 
 /* Table */
